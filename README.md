@@ -83,15 +83,6 @@ I'm an LLM developer with a passion for building intelligent applications that p
 
 ---
 
-### 📫 Let’s Connect
-
-- 🌐 Website/Portfolio: *coming soon*
-- 🐦 Twitter: [@yourhandle](https://twitter.com/)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-- 📬 Email: your.email@example.com
-
----
-
 ### ⚡ Bonus
 
 > _“Building the future, one token at a time.”_
